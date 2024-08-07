@@ -1,0 +1,3 @@
+# numero-segreto
+
+Projeto inicial 
